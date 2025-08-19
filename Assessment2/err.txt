@@ -1,0 +1,1 @@
+Attached fragment shader is not compiled.
